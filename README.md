@@ -29,7 +29,7 @@ pip install -r requirements.txt
 Running the Project
 Colab Preview Version:
 
-A preview version of the project is available as a Google Colab notebook. This version allows users to explore the basic functionality and concepts of the framework.
+A preview version of the project is available as a Google Colab notebook. This version allows users to explore the basic functionality and concepts of the transceiver of the SemAIGC framework.
 Link to the Colab Notebook
 
 
