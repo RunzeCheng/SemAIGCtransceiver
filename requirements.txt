@@ -1,0 +1,14 @@
+numpy==1.23.5
+opencv-python==4.8.0.74
+torch==1.10.0
+tqdm==4.62.3
+huggingface_hub==0.17.2
+pandas==1.4.1
+Pillow==10.0.0
+diffusers==0.20.0
+transformers==4.33.0
+google-colab==1.0.0
+gym==0.22.0
+gym-notices==0.0.4
+matplotlib==3.5.0
+scipy==1.7.3
